@@ -1,0 +1,11 @@
+event_name,start_date,end_date,country_region,description
+WHO declares Public Health Emergency of International Concern,2020-01-30,2020-02-29,Global,"WHO declared COVID-19 a Public Health Emergency of International Concern, marking the first official recognition of the global threat."
+WHO declares COVID-19 a pandemic,2020-03-11,2020-03-15,Global,WHO officially classified COVID-19 as a global pandemic due to rapid worldwide spread.
+Global lockdowns begin,2020-03-15,2020-06-30,Global,"Many countries introduced large-scale lockdowns, travel restrictions, and stay-at-home orders to contain the virus."
+First vaccine trial begins (Moderna mRNA-1273),2020-03-16,2020-03-30,USA,"The first clinical trial for a COVID-19 vaccine (Moderna’s mRNA-1273) started in Seattle, USA."
+Pfizer–BioNTech vaccine approved (FDA EUA),2020-12-11,2020-12-31,USA / Global,The U.S. FDA issued Emergency Use Authorization for the Pfizer–BioNTech COVID-19 vaccine — the first approved vaccine.
+Oxford–AstraZeneca vaccine approved (UK),2020-12-30,2021-01-31,UK / EU,The UK Medicines and Healthcare Regulatory Agency (MHRA) approved the Oxford–AstraZeneca vaccine for emergency use.
+Global vaccination campaigns begin,2021-01-01,2021-03-31,Global,"Mass vaccination programs started across most countries, marking the beginning of large-scale immunization efforts."
+Delta variant wave,2021-06-01,2021-09-30,Global,"The Delta variant caused a significant surge in infections worldwide, with higher transmissibility and severe cases."
+Omicron variant detected (South Africa),2021-11-24,2022-03-31,Global,"Scientists in South Africa identified the Omicron variant, leading to renewed global restrictions and record case numbers."
+WHO declares end of global health emergency,2023-05-05,2023-05-10,Global,"WHO officially ended the COVID-19 global health emergency, signaling a shift to long-term management of the disease."
