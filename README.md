@@ -16,7 +16,7 @@ The repository includes:
 * **Visualization notebooks (EDA, hashtags, events alignment)**
 
 Dataset used in this project is publicly available on Zenodo.
-<!-- 
+
 ## Repository Structure
 
 ```
@@ -64,7 +64,7 @@ Dataset used in this project is publicly available on Zenodo.
         ├── hindi-balanced-2-3.ipynb
         ├── portuguese-balanced-2-3.ipynb
         └── indonesian-balanced-2-3.ipynb
-``` -->
+```
 
 
 # Dataset
