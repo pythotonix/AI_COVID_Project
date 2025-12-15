@@ -164,7 +164,7 @@ Notebook:
 
 Outputs correlations between global events and sentiment dynamics.
 
-<!-- ## Launch the Dashboard
+## Launch the Dashboard
 
 ```
 cd Dashboard
@@ -179,7 +179,7 @@ Dashboard displays:
 * random post samples
 * geographical sentiment differences
 
-(Requires dataset placed into `/Dashboard/`.) -->
+(Requires dataset placed into `/Dashboard/`.)
 
 
 # Model Comparison (XLM-R vs mBERT)
